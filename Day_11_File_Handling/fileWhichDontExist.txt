@@ -1,0 +1,1 @@
+in W mode, if file doesn't exist, it will create and write in a file

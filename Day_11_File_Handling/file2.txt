@@ -1,0 +1,1 @@
+This is Modern Python & this mode will override the existing data in the fileThe default cursor after first line will be set at the end of line & this will not be printed only will be written in file|The default cursor after first line will be set at the end of line & this will not be printed only will be written in file
